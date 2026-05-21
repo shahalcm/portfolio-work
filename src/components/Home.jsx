@@ -40,17 +40,17 @@ const Home = () => {
               {
                 i: <FaLinkedin size={26} />,
                 color: "hover:text-sky-400",
-                href: "https://www.linkedin.com",
+                href: "https://www.linkedin.com/in/jasim-dev?utm_source=share_via&utm_content=profile&utm_medium=member_android",
               },
               {
                 i: <FaInstagram size={26} />,
                 color: "hover:text-pink-500",
-                href: "https://instagram.com",
+                href: "https://www.instagram.com/jasim1t?igsh=MW1jamFvY29oOWg0NA==",
               },
               {
                 i: <FaWhatsapp size={26} />,
                 color: "hover:text-emerald-400",
-                href: "https://wa.me",
+                href: "https://wa.me/qr/DWV6COW3XFTNM1",
               },
             ].map((social, index) => (
               <a
